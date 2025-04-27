@@ -1,4 +1,4 @@
-# 24Fall_EE208_Engineering Electromagnetics
+# 24Fall_EE208_Engineering_Electromagnetics
 
 
 
